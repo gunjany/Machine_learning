@@ -7,4 +7,7 @@ Objective: Predict the best Wine quality using the metrics:
 The models depicted till now are:
 1 . Simple linear Regression
 2 . Multiple Linear Regression(OLS)
-3 . Random Forest Regression
+3 . Polynomial Regression
+4 . Support Vector Machine
+5 . Decision Tree
+6 . Random Forest Regression
