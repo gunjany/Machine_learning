@@ -11,3 +11,11 @@ The models depicted till now are:
 4 . Support Vector Machine
 5 . Decision Tree
 6 . Random Forest Regression
+
+
+The file has updated and following directoriies has been added:
+
+1. Data Preprocessing: data cleaning, data extraction, missing values elimination, feature scaling etc
+2. Regression: Basic Regression models as well as advanced Regression Models.
+3. Classification
+
